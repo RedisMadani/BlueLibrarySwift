@@ -1,9 +1,10 @@
-# SwiftDesignPatternsDemo
+# BlueLibrarySwift
 
+![BlueLibrarySwift](https://github.com/RedisMadani/BlueLibrarySwift/assets/136177376/ff1b0236-fd0d-4b26-81a2-caf176a29b71)
 
 ## Description
 
-SwiftDesignPatternsDemo is a Swift app that serves as a comprehensive demonstration of various design patterns. It showcases the implementation of different design patterns across three categories: Creational, Structural, and Behavioral. The app provides examples of the following design patterns:
+BlueLibrarySwift is a Swift app that serves as a comprehensive demonstration of various design patterns. It showcases the implementation of different design patterns across three categories: Creational, Structural, and Behavioral. The app provides examples of the following design patterns:
 
 - Creational: Singleton
 - Structural: MVC, Decorator, Adapter, Facade
@@ -19,31 +20,31 @@ By exploring this app, you can gain a better understanding of how these design p
 
 ## Installation
 
-To run the SwiftDesignPatternsDemo app on your local machine, follow these steps:
+To run the BlueLibrarySwift app on your local machine, follow these steps:
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/RedisMadani/SwiftDesignPatternsDemo.git
+git clone https://github.com/RedisMadani/BlueLibrarySwift.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd SwiftDesignPatternsDemo
+cd BlueLibrarySwift
 ```
 
 3. Open the Xcode project file:
 
 ```
-open SwiftDesignPatternsDemo.xcodeproj
+open BlueLibrarySwift.xcodeproj
 ```
 
 4. Build and run the app using Xcode.
 
 ## Usage
 
-Once you have the SwiftDesignPatternsDemo app running on a simulator or device, you can explore its functionality:
+Once you have the BlueLibrarySwift app running on a simulator or device, you can explore its functionality:
 
 - The main screen provides access to different sections, each representing a design pattern category.
 - Select a category to view examples of specific design patterns within that category.
